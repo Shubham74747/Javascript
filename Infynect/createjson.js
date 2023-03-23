@@ -4,5 +4,4 @@ const person = {
     "Place"     : "Pratapgarh" ,
     "Education" : "Graduate"
 }
-delete person.Place;
 console.log(person);
